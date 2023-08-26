@@ -1,0 +1,23 @@
+main:
+
+  - title: Two-stage anomaly detection for positive samples and small samples based on generative adversarial networks
+    authors: Caie Xu, Dandan Ni, Bingyan Wang, <strong>Mingyang Wu</strong>, Honghua Gan
+    conference_short: 
+    conference: Multimedia Tools and Applications
+    pdf: https://link.springer.com/article/10.1007/s11042-022-14306-9
+    code: 
+    bibtex: https://dblp.org/rec/journals/mta/XuNWWG23.html?view=bibtex
+    image: ./assets/img/paper_Two-stage anomaly detection.png
+    notes: 
+
+  - title: "AU-GAN: Attention U-Net Based on a Built-In Attention for Multi-domain Image-to-Image Translation"
+    authors: Caie Xu, Jin Gan, <strong>Mingyang Wu</strong>, Dandan Ni
+    conference_short: 
+    conference: APWeb/WAIM Workshops 2022
+    pdf: https://link.springer.com/chapter/10.1007/978-981-99-1354-1_18
+    code: 
+    page: 
+    bibtex: https://dblp.org/rec/conf/apweb/XuGWN22.html?view=bibtex
+    image: ./assets/img/paper_AU-GAN.webp
+    notes: oral Presentation
+    

@@ -1,0 +1,30 @@
+main:
+
+  - title: Research on Appearance Anormal Detection Technology Based on Machine Vision and Oriented towards Small Samples
+    authors: <strong>Mingyang Wu</strong>, Sishun Pan, ShengyunZhong
+    conference_short: 
+    conference: National Undergraduate Innovation and Entrepreneurship Training Program 2022
+    code: 
+    pdf: 
+    image: ./assets/img/project_anomaly_detection.png
+    width: 500
+
+  - title: An efficient ConvNet image classification model based on NumPy and GPU Optimization
+    authors: <strong>Mingyang Wu</strong>
+    conference: Based on CS231n
+    code: https://github.com/MingYWu/Optimized-convolutional-neural-networks
+    image: ./assets/img/Project_cnn.png
+    width: 375
+
+  - title: Research on Classification Algorithm in Small Object Detection and Its Application in Brick Classification of Bluecoo
+    authors: <strong>Mingyang Wu</strong>
+    conference: University level Undergraduate Innovation and Entrepreneurship Training Program 2022
+    code: 
+    image: 
+  
+  - title: Research on Speech Feature Detection System for Alzheimer's Disease Based on Deep Learning
+    authors: Tianyang Jiang, Zifei Li, <strong>Mingyang Wu</strong>
+    conference: National Undergraduate Innovation and Entrepreneurship Training Program 2021
+    code: 
+    pdf: 
+    image: 
