@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <title>{{ site.title }} | {{site.affiliation}}</title>
-
+    <!-- <title>{{ site.title }} | {{site.affiliation}}</title> -->
+    <title>{{ site.title }}</title>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -36,6 +36,33 @@
 
   </head>
   <body>
+
+    <lightonly>
+      <div id="headcolor">
+        <div id="colorheadspacer"></div>
+      </div>
+    </lightonly>
+
+
+    <script src="./assets/js/back-to-top.js"></script>
+    <script>addBackToTop({
+        backgroundColor: '#fff',
+        innerHTML: 'Back to Top',
+        textColor: '#333'
+      })
+    </script><div id="back-to-top" class="hidden">Back to Top</div>
+    <style>
+        #back-to-top {
+          border: 1px solid #ccc;
+          border-radius: 0;
+          font-size: 15px;
+          width: 100px;
+          text-align: center;
+          line-height: 30px;
+          height: 30px;
+        }
+    </style>
+
     <div class="wrapper">
       <header>
         
@@ -44,6 +71,8 @@
         {% endif %}
 
         <h1>{{ site.title }}</h1>
+
+        <h1>{{ site.title-zn }}</h1>
 
         {% if site.position %}
         <position style="font-size:1.10rem;">{{ site.position }}</position>
@@ -105,7 +134,7 @@
 
       </section>
       <footer>
-        
+        All rights reserved & Last update on Aug, 2023
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
