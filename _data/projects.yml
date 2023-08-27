@@ -13,7 +13,7 @@ main:
     authors: <strong>Mingyang Wu</strong>
     conference: Based on CS231n
     code: https://github.com/MingYWu/Optimized-convolutional-neural-networks
-    image: ./assets/img/Project_cnn.png
+    image: ./assets/img/project_cnn.png
     width: 375
 
   - title: Research on Classification Algorithm in Small Object Detection and Its Application in Brick Classification of Bluecoo
