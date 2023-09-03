@@ -20,7 +20,7 @@
     Number of first inventors: 1<br>
     Number of second inventors: 2<br>
     Number of co-inventors: 3<br>
-    Number ofcopyright owner : 3
+    Number of copyright owner : 3
 </ul>
 
 <br>
