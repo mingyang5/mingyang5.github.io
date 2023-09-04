@@ -7,7 +7,7 @@ Welcome to Mingyang Wu (吴明洋) 's homepage!
 ## About Me
 
 Greetings! I am a fourth-year undergraduate majoring in Computer Science at [Zhejiang University of Science and Technology (ZUST)](https://www.zust.edu.cn/).  
-At present, I am conducting research as an undergraduate researcher under the guidance of [Dr. Caie Xu](https://dblp.org/pid/210/3757.html) at ZUST.
+At present, I am conducting research as an undergraduate researcher under the guidance of [Dr. Caie Xu](https://dblp.org/pid/210/3757.html) at ZUST.  
 Presenting my compilation of Personal Study Notes: [Notion Blogs](https://mingyangwu.notion.site/mingyangwu/Mingyang-Wu-ef040699379a4eba875f5e1d72deb2ce).  
 
 I am actively pursuing admission for a Master's (MSc/Mphil) program in Fall 2024 and a Ph.D. position in Fall 2026!
