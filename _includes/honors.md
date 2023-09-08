@@ -8,6 +8,14 @@
   <li>Merit Student Award (top 3%), ZUST, 2021, 2022</li>
 </ul>
 
+<h4 style="margin:0 10px 0;">Training Programmes</h4>
+
+<ul style="margin:0 0 5px;">
+  <li>National Undergraduate Innovation and Entrepreneurship Training Program 2022 <br>
+  <strong>Project Leader</strong></li>
+  <li>National Undergraduate Innovation and Entrepreneurship Training Program 2021 </li>
+</ul>
+
 <h4 style="margin:0 10px 0;">Competitions</h4>
 
 <ul style="margin:0 0 5px;">
