@@ -24,11 +24,8 @@
 
 <h4 style="margin:0 10px 0;">Invention Patents & Copyrights (Published Status)</h4>
 
-<ul style="margin:0 0 5px;">
-    Number of first inventors: 1<br>
-    Number of second inventors: 2<br>
-    Number of co-inventors: 3<br>
+<!-- <ul style="margin:0 0 5px;">
     Number of copyright owner : 3
-</ul>
+</ul> -->
 
 <br>
