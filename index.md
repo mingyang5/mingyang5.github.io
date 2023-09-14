@@ -20,7 +20,7 @@ My research interests are deep learning, machine learning, and their application
 
 ## News
 
-- **[09. 2023]** One paper has been accepted (JCR Q2).
+- **[09. 2023]** One paper has been accepted by [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639) (JCR Q2).
 - **[01. 2023]** Our paper [Two-stage anomaly detection method](https://link.springer.com/article/10.1007/s11042-022-14306-9) was accepted to [MTA](https://www.springer.com/journal/11042) (JCR Q2).
 - **[08. 2022]** One paper has been accepted by [APWeb/WAIM Workshops 2022](http://apweb-waim2022.com/).
 
