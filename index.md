@@ -8,7 +8,7 @@ Greetings! I am a fourth-year undergraduate majoring in Computer Science at [Zhe
 At present, I am conducting research as an undergraduate researcher under the guidance of [Dr. Caie Xu](https://dblp.org/pid/210/3757.html) at ZUST.  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Notion Blogs](https://www.mingyangup.top/) / [ZhiHu](https://www.zhihu.com/people/wmy-77-89) / [Github](https://github.com/MingYWu)  
 
-I am actively pursuing admission for a Master's (MSc/Mphil) position in Fall 2024 and a Ph.D. position in Fall 2026!
+I am actively pursuing admission for a Master's (MSc/Mphil) position in Fall 2024.
 
 ## Research Interests
 
