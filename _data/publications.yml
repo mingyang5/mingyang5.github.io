@@ -6,7 +6,7 @@ main:
     pdf: https://doi.org/10.1109/ACCESS.2023.3314199
     code: 
     bibtex: 
-    image: 
+    image: ./assets/img/paper_KD.png
     notes: 
 
   - title: Two-stage anomaly detection for positive samples and small samples based on generative adversarial networks

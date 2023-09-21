@@ -20,7 +20,7 @@ My research interests are deep learning, machine learning, and their application
 
 ## News
 
-- **[09. 2023]** [A practices](https://gitee.com/ascend/samples/tree/master/best_practices/contrib/part_detection) has been Successfully contributed to the [Huawei Ascend community](https://gitee.com/ascend).
+- **[09. 2023]** [A practice](https://gitee.com/ascend/samples/tree/master/best_practices/contrib/part_detection) has been Successfully contributed to the [Huawei Ascend community](https://gitee.com/ascend).
 - **[09. 2023]** [One paper](https://ieeexplore.ieee.org/abstract/document/10247009) has been accepted by [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639) (JCR Q2).
 - **[01. 2023]** Our paper [Two-stage anomaly detection method](https://link.springer.com/article/10.1007/s11042-022-14306-9) was accepted to [MTA](https://www.springer.com/journal/11042) (JCR Q2).
 - **[12. 2022]** Chinese National Scholarship (Top 0.2%).
