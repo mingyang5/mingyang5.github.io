@@ -1,4 +1,14 @@
 main:
+  - title: ATYOLO Target Detection Algorithm for Effective Fusion of Attention and Multiscale         
+    authors: Caie Xu, Zhe Dong, Shengyun Zhong, Yijiang Chen, Sishun Pan, <strong>Mingyang Wu</strong>
+    conference_short: 
+    conference: Optoelectronics Letters 
+    pdf: 
+    code: 
+    bibtex: 
+    image:
+    notes: 
+  
   - title: Autoencoder-like Knowledge Distillation Network for Anomaly Detection
     authors: Caie Xu, Bingyan Wang, Dandan Ni, Jin Gan, <strong>Mingyang Wu</strong>, Wujie Zhou
     conference_short: 

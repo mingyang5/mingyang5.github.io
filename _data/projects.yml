@@ -6,7 +6,7 @@ main:
     conference: National Undergraduate Innovation and Entrepreneurship Training Program 2022
     code: 
     pdf: 
-    image: ./assets/img/project_anomaly_detection.png
+    image:
     width: 500
 
   - title: An efficient ConvNet image classification model based on NumPy and GPU Optimization
@@ -29,7 +29,7 @@ main:
     pdf: 
     image: 
   
-  - title: image-segmentation-practice
+  - title: Image Segmentation Practice
     authors: <strong>Mingyang Wu</strong>
     conference: 
     code: https://github.com/MingYWu/image-segmentation-practice

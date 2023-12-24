@@ -8,7 +8,7 @@
   <li>Merit Student Award (top 3%), ZUST, 2021, 2022, 2023</li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Training Programmes & Grants</h4>
+<h4 style="margin:0 10px 0;">Grants</h4>
 
 <ul style="margin:0 0 5px;">
   <li>National Undergraduate Innovation and Entrepreneurship Training Program 2022 <br>
@@ -24,9 +24,5 @@
 </ul>
 
 <h4 style="margin:0 10px 0;">Invention Patents & Copyrights (Published Status)</h4>
-
-<!-- <ul style="margin:0 0 5px;">
-    Number of copyright owner : 3
-</ul> -->
 
 <br>

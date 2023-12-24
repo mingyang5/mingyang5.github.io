@@ -8,7 +8,7 @@ Greetings! I am a senior student majoring in Computer Science at [Zhejiang Unive
 At present, I am conducting research as an undergraduate researcher under the guidance of [Dr. Caie Xu](https://dblp.org/pid/210/3757.html) at ZUST.  
 [Notion Blogs](https://www.mingyangup.top/) / [ZhiHu](https://www.zhihu.com/people/wmy-77-89) / [Github](https://github.com/MingYWu)  
 
-I am actively pursuing admission for a Master's (MSc/Mphil) position in Fall 2024.
+I am actively pursuing admission for a Master's position in 2024 Fall.
 
 ## Research Interests
 
