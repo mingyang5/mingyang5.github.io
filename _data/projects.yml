@@ -10,8 +10,8 @@ main:
     width:
 
   - title: Development Project on Image Classification Task Implemented using NumPy
-    authors: <strong>Mingyang Wu</strong>
-    conference: Based on CS231n
+    authors: <strong>Mingyang Wu</strong>, Based on CS231n
+    conference: 
     code: https://github.com/MingYWu/Optimized-convolutional-neural-networks
     image:
     width:
@@ -21,7 +21,7 @@ main:
     conference: National Undergraduate Innovation and Entrepreneurship Training Program 2021
 
   - title: Image Segmentation Practice
-    authors: <strong>Mingyang Wu</strong>
+    authors: <strong>Mingyang Wu</strong>, Course Project
     conference: 
     code: https://github.com/MingYWu/image-segmentation-practice
     pdf: 

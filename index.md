@@ -23,9 +23,9 @@ My research interests are machine learning, deep learning, and their application
 - **[12. 2023]** [Our paper]() has been accepted by [Optoelectronics Letters](https://link.springer.com/journal/11801) (EI).
 - **[09. 2023]** [One practice](https://gitee.com/ascend/samples/tree/master/best_practices/contrib/part_detection) has been successfully contributed to the [Huawei Ascend community](https://gitee.com/ascend).
 - **[09. 2023]** [Our paper](https://ieeexplore.ieee.org/abstract/document/10247009) has been accepted by [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639) (JCR Q2).
-- **[01. 2023]** Our paper [Two-stage anomaly detection method](https://link.springer.com/article/10.1007/s11042-022-14306-9) has been accepted by [MTA](https://www.springer.com/journal/11042) (JCR Q2).
+- **[01. 2023]** [Two-stage anomaly detection method](https://link.springer.com/article/10.1007/s11042-022-14306-9) has been accepted by [MTA](https://www.springer.com/journal/11042) (JCR Q2).
 - **[12. 2022]** Chinese National Scholarship (Top 0.2%).
-- **[08. 2022]** [Our paper](https://link.springer.com/chapter/10.1007/978-981-99-1354-1_18) has been accepted by [APWeb-WAIM 2022] (EI).
+- **[08. 2022]** [Our paper](https://link.springer.com/chapter/10.1007/978-981-99-1354-1_18) has been accepted by APWeb-WAIM 2022 (EI).
 
 {% include_relative _includes/publications.md %}
 
