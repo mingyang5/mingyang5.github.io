@@ -6,6 +6,7 @@
   list-style-type: none;
   padding-left: 0;
 }
+
 </style>
 </head>
 <body>
@@ -13,12 +14,11 @@
 <h2 id="projects" style="margin: -15px 0 2px;">Projects</h2>
 
 <div class="projects">
-
   <ul class="bibliography no-bullet">
     {% for link in site.data.projects.main %}
     <li>
       <div class="pub-row">
-        <div class="col-sm-12" style="position: relative; padding: 15px;">
+        <div class="col-sm-12" style="position: relative; padding: 5px;">
           {% if link.conference_short %}
           <abbr class="badge">{{ link.conference_short }}</abbr>
           {% endif %}
@@ -26,7 +26,7 @@
           <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width: {{ link.width }}px; height: auto;">
           {% endif %}
         </div>
-        <div class="col-sm-12" style="position: relative; padding: 15px;">
+        <div class="col-sm-12" style="position: relative; padding: 5px;">
           <div class="title">
             <a href="{{ link.pdf }}">{{ link.title }}</a>
           </div>
@@ -41,7 +41,6 @@
 
       </div>
     </li>
-    <br>
     {% endfor %}
   </ul>
 </div>
