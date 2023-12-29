@@ -19,8 +19,8 @@
 <h4 style="margin:0 10px 0;">Competitions</h4>
 
 <ul style="margin:0 0 5px;">
-  <li>The 18th "Challenge Cup" Extracurricular Academic and Technological Works Competition for College Students in Zhejiang Province, 2022 <br>
-  <strong>Project Leader</strong></li>
+  <li>Bronze Prize, The 18th "Challenge Cup" Extracurricular Academic and Technological Works Competition for College Students in Zhejiang Province, 2022, <strong>Project Leader</strong></li>
+  <li>First Prize, The 4th "Teddy Cup" Data Analysis Skills Competition(both Problem A and Problem), 2021</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Invention Patents & Copyrights (Published Status)</h4>
