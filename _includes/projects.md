@@ -34,7 +34,10 @@
           <div class="periodical"><em>{{ link.conference }}</em></div>
           <div class="links">
             {% if link.code %}
-            <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size: 12px;">Code</a>
+            <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size: 15px;">CODE</a>
+            {% endif %}
+            {% if link.notion_blog %}
+            <a href="{{ link.notion_blog }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size: 15px;">Notion Blog</a>
             {% endif %}
           </div>
         </div>

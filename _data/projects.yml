@@ -5,7 +5,7 @@ main:
     conference_short: 
     conference: National Undergraduate Innovation and Entrepreneurship Training Program 2022
     code: 
-    pdf: 
+    notion_blog: https://www.mingyangup.top/appearance-anomaly-detection-technology-based-on-machine-vision
     image:
     width:
 
@@ -13,16 +13,15 @@ main:
     authors: <strong>Mingyang Wu</strong>, Based on CS231n
     conference: 
     code: https://github.com/MingYWu/Optimized-convolutional-neural-networks
-    image:
-    width:
+
   
   - title: Research on Speech Feature Detection System for Alzheimer's Disease Based on Deep Learning
     authors: Tianyang Jiang, Zifei Li, <strong>Mingyang Wu</strong>
     conference: National Undergraduate Innovation and Entrepreneurship Training Program 2021
+    notion_blog:
 
   - title: Image Segmentation Practice
     authors: <strong>Mingyang Wu</strong>, Course Project
     conference: 
     code: https://github.com/MingYWu/image-segmentation-practice
-    pdf: 
-    image: 
+
