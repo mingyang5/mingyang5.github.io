@@ -31,10 +31,10 @@ My research interests are machine learning, deep learning, and their application
 
 ## Memorable events
 
-<h4 style="margin:0 10px 0;"><a href="https://www.hkust-gz.edu.cn/academics/teaching-and-learning-innovation/red-bird-challenge-camp/">Red Bird Challenge Camp@HKUST(GZ), 2023.6-2023.7</a></h4>
-<ul style="margin:0 0 5px;">
-  <li>Description: This project is highly intriguing, providing me with the opportunity to collaborate with outstanding partners from various disciplines. For more information, please refer to my <a herf="https://www.mingyangup.top/red-bird-challenge-camp">Notion blog.</a></li>
-  <li>Award: Outstanding Camper (top 9%)</li>
+<h4 style="margin: 0 10px 0;"><a href="https://www.hkust-gz.edu.cn/academics/teaching-and-learning-innovation/red-bird-challenge-camp/">Red Bird Challenge Camp @ HKUST (GZ), June 2023 - July 2023</a></h4>
+<ul style="margin: 0 0 5px;">
+  <li>Description: Engaging in this unique project has been a fascinating experience, providing me with the opportunity to collaborate with exceptional partners across diverse disciplines. For more detailed information, please visit my <a href="https://www.mingyangup.top/red-bird-challenge-camp">Notion blog.</a></li>
+  <li>Award: Recognized as an Outstanding Camper (Top 9%)</li>
 </ul>
 
 {% include_relative _includes/publications.md %}
