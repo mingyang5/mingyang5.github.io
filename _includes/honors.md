@@ -13,7 +13,7 @@
 <ul style="margin:0 0 5px;">
   <li><a href="http://gjcxcy.bjtu.edu.cn/NewLXItemListForStudentDetail.aspx?ItemNo=897498&year=2022&type=student&IsLXItem=0">National Undergraduate Innovation & Entrepreneurship Training Program 2022</a><br>
   <strong>Project Leader</strong></li>
-  <li><a href="http://gjcxcy.bjtu.edu.cn/NewLXItemListForStudentDetail.aspx?ItemNo=765436&year=2021&type=student&IsLXItem=0">National Undergraduate Innovation & Entrepreneurship Training Program 2022</a></li>
+  <li><a href="http://gjcxcy.bjtu.edu.cn/NewLXItemListForStudentDetail.aspx?ItemNo=765436&year=2021&type=student&IsLXItem=0">National Undergraduate Innovation & Entrepreneurship Training Program 2021</a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Competitions</h4>
