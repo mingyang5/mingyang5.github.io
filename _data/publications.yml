@@ -1,4 +1,14 @@
 main:
+  - title: Enhanced Local Perceptron Network for Unsupervised Anomaly Detection       
+    authors: Caie Xu, <strong>Mingyang Wu</strong>, Peng Wang, et al. 
+    conference_short: 
+    conference: Under Review
+    pdf: 
+    code: 
+    bibtex: 
+    image:
+    notes: 
+  
   - title: ATYOLO Target Detection Algorithm for Effective Fusion of Attention and Multiscale         
     authors: Caie Xu, Zhe Dong, Shengyun Zhong, Yijiang Chen, Sishun Pan, <strong>Mingyang Wu</strong>
     conference_short: 
@@ -32,7 +42,7 @@ main:
   - title: "AU-GAN: Attention U-Net Based on a Built-In Attention for Multi-domain Image-to-Image Translation"
     authors: Caie Xu, Jin Gan, <strong>Mingyang Wu</strong>, Dandan Ni
     conference_short: 
-    conference: APWeb/WAIM Workshops 2022
+    conference: APWeb-WAIM Workshops 2022
     pdf: https://link.springer.com/chapter/10.1007/978-981-99-1354-1_18
     code: 
     page: 

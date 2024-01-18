@@ -6,8 +6,6 @@ layout: homepage
 
 Greetings! I am a senior student majoring in CS at [Zhejiang University of Science and Technology (ZUST)](https://www.zust.edu.cn/). At present, I am conducting research as an undergraduate researcher under the guidance of **[Dr. Caie Xu](https://dblp.org/pid/210/3757.html)** at ZUST and **[Prof. Honghua Gan](https://person.zju.edu.cn/0001013)** at Zhejiang University.
 
-Inspired by "change is the only constant in future societies" and "disruptive technologies are advancing rapidly," I am exploring **interdisciplinary collaboration** and fostering **multifaceted innovative capabilities** as solutions to tackle the challenges of dynamic and ever-evolving societies.
-
 Here is more information about the project on [Notion](https://mingyangwu.notion.site/mingyangwu/Mingyang-Wu-ef040699379a4eba875f5e1d72deb2ce).
 
 I am actively pursuing admission for a Master's position in 2024 Fall.
@@ -15,7 +13,6 @@ I am actively pursuing admission for a Master's position in 2024 Fall.
 ## Research Interests
 
 My current research interests are machine learning, deep learning, and their applications to computer vision. Specifically, I focus on:
-
 - **Generative AI** (GANs, diffusion models) and its applications (e.g., unsupervised anomaly detection, image translation)
 - **Medical image enhancement and analysis**
 
@@ -30,9 +27,8 @@ My current research interests are machine learning, deep learning, and their app
 
 ## Memorable events
 
-<h4 style="margin: 0 10px 0;"><a href="https://www.hkust-gz.edu.cn/academics/teaching-and-learning-innovation/red-bird-challenge-camp/">Red Bird Challenge Camp @ HKUST (GZ), June 2023 - July 2023</a></h4>
+<h4 style="margin: 0 10px 0;"><a href="https://www.hkust-gz.edu.cn/academics/teaching-and-learning-innovation/red-bird-challenge-camp/">Red Bird Challenge Camp @ HKUST (GZ), 2023 Summer</a></h4>
 <ul style="margin: 0 0 5px;">
-  <li>Description: Engaging in this unique project has been a fascinating experience, providing me with the opportunity to collaborate with exceptional partners across diverse disciplines. For more detailed information, please visit my <a href="https://www.mingyangup.top/red-bird-challenge-camp">Notion blog.</a></li>
   <li>Award: Recognized as an Outstanding Camper (Top 9%), details: <a href="https://www.mingyangup.top/red-bird-challenge-camp">Notion Blog</a>.</li>
 </ul>
 
