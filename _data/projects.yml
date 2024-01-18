@@ -1,27 +1,25 @@
 main:
 
-  - title: Research on Appearance Anormal Detection Technology Based on Machine Vision and Oriented towards Small Samples
+  - title: Appearance Anormal Detection Technology Based on Machine Vision and Oriented towards Small Samples
     authors: <strong>Mingyang Wu</strong>, Sishun Pan, ShengyunZhong
     conference_short: 
-    conference: National Undergraduate Innovation and Entrepreneurship Training Program 2022
-    code: 
+    conference: National Undergraduate Innovation and Entrepreneurship Training Program, 2022
+    # code: 
     notion_blog: https://www.mingyangup.top/appearance-anomaly-detection-technology-based-on-machine-vision
-    image:
-    width:
 
-  - title: Development Project on Image Classification Task Implemented using NumPy
-    authors: <strong>Mingyang Wu</strong>, Based on CS231n
-    conference: 
-    code: https://github.com/MingYWu/Optimized-convolutional-neural-networks
+  # - title: Development Project on Image Classification Task Implemented using NumPy
+  #   authors: <strong>Mingyang Wu</strong>, Based on CS231n
+  #   conference: 
+  #   code: https://github.com/MingYWu/Optimized-convolutional-neural-networks
 
   
-  - title: Research on Speech Feature Detection System for Alzheimer's Disease Based on Deep Learning
+  - title: Early Diagnosis System for Alzheimer's Disease Using Audio and Deep Learning
     authors: Tianyang Jiang, Zifei Li, <strong>Mingyang Wu</strong>
     conference: National Undergraduate Innovation and Entrepreneurship Training Program 2021
-    notion_blog:
+    notion_blog: https://mingyangwu.notion.site/Early-Diagnosis-System-for-Alzheimer-s-Disease-Using-Audio-and-Deep-Learning-28004c22519f485196ea67ec1ba9d9a2
 
-  - title: Image Segmentation Practice
-    authors: <strong>Mingyang Wu</strong>, Course Project
-    conference: 
-    code: https://github.com/MingYWu/image-segmentation-practice
+  # - title: Image Segmentation Practice
+  #   authors: <strong>Mingyang Wu</strong>, Course Project
+  #   conference: 
+  #   code: https://github.com/MingYWu/image-segmentation-practice
 
