@@ -6,7 +6,7 @@ main:
     pdf: 
     code: 
     bibtex: 
-    image:
+    image: ./assets/img/page.png
     notes: 
   
   - title: ATYOLO Target Detection Algorithm for Effective Fusion of Attention and Multiscale         
@@ -16,7 +16,7 @@ main:
     pdf: 
     code: 
     bibtex: 
-    image:
+    image: ./assets/img/page.png
     notes: 
   
   - title: Autoencoder-like Knowledge Distillation Network for Anomaly Detection
