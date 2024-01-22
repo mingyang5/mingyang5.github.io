@@ -4,9 +4,7 @@ layout: homepage
 
 ## About Me
 
-Greetings! I am a senior student majoring in CS at [Zhejiang University of Science and Technology (ZUST)](https://www.zust.edu.cn/). At present, I am conducting research as an undergraduate researcher under the guidance of **[Dr. Caie Xu](https://dblp.org/pid/210/3757.html)** at ZUST and **[Prof. Honghua Gan](https://person.zju.edu.cn/0001013)** at Zhejiang University.
-
-Here is more information about the project on [Notion](https://mingyangwu.notion.site/mingyangwu/Mingyang-Wu-ef040699379a4eba875f5e1d72deb2ce).
+Greetings! I am a senior student majoring in CS at [Zhejiang University of Science and Technology (ZUST)](https://www.zust.edu.cn/). At present, I am conducting research as an undergraduate researcher under the guidance of **[Dr. Caie Xu](https://dblp.org/pid/210/3757.html)** at ZUST.
 
 I am actively pursuing admission for a Master's position in 2024 Fall.
 
