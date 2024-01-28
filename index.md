@@ -8,6 +8,14 @@ Greetings! I am a senior student majoring in CS at [Zhejiang University of Scien
 
 I am actively pursuing admission for a Master's position in 2024 Fall.
 
+<a href="https://www.zhihu.com/people/WMY4AI/posts">
+  <img align="left" alt="Mingyang Wu's Zhihu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/zhihu.svg" />
+</a>
+<a href="https://mingyangwu.notion.site/mingyangwu/Mingyang-Wu-ef040699379a4eba875f5e1d72deb2ce">
+  <img align="left" alt="Mingyang Wu's Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/notion.svg" />
+</a>
+<br />
+
 ## Research Interests
 
 My current research interests are machine learning, deep learning, and their applications to computer vision. Specifically, I focus on:
