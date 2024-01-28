@@ -27,7 +27,7 @@ My current research interests are machine learning, deep learning, and their app
 
 <h4 style="margin: 0 10px 0;"><a href="https://www.hkust-gz.edu.cn/academics/teaching-and-learning-innovation/red-bird-challenge-camp/">Red Bird Challenge Camp @ HKUST (GZ), 2023 Summer</a></h4>
 <ul style="margin: 0 0 5px;">
-  <li>Award: Recognized as an Outstanding Camper (Top 9%), details: <a href="https://www.mingyangup.top/red-bird-challenge-camp">Notion Blog</a>.</li>
+  <li>Award: Outstanding Camper (Top 9%), details: <a href="https://www.mingyangup.top/red-bird-challenge-camp">Notion Blog</a>.</li>
 </ul>
 
 {% include_relative _includes/publications.md %}
