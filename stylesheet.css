@@ -361,6 +361,12 @@ university {
   margin-bottom: 20px;
 }
 
+.profile-interest {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+
 .profile-links {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 16px;
