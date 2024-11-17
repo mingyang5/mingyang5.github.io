@@ -22,6 +22,8 @@
               <p class="profile-bio">I am a master student in the Department of Computer Science and Engineering at <a href="https://www.tamu.edu/index.html">Texas A&M University</a>, advised by Prof. <a href="https://vztu.github.io/">Zhengzhong Tu</a>. 
               Previously, I completed an internship at Bosch in <a href="https://www.bosch.com/stories/car-software-electronics/">the Cross-Domain Computing Solutions Division (XC)</a>.
               </p>
+              <p class="profile-bio">My research interests include both the theoretical and applied aspects of computer vision.</p>
+
               <p style="text-align:center">
                 <a href="mailto:mingyang.cse@gmail.com">Email</a> &nbsp/&nbsp
                 <a href="https://scholar.google.com/citations?user=5Fh1Ra8AAAAJ&hl=en">Google Scholar</a> &nbsp/&nbsp
@@ -33,24 +35,31 @@
             </td>
           </tr>
         </tbody></table>
-        
+
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-            <tr>
+          <tr>
             <td style="padding:20px;width:100%;vertical-align:middle">
-              <heading>Research</heading>
-              <p>
-              My research interests include both the theoretical and applied aspects of computer vision.
-              </p>
+              <heading>Recent News</heading>
+              <!-- <p>
+                <li>[11/2024]</li>
+                <li>[02/2024]</li>
+              <p> -->
             </td>
           </tr>
         </tbody></table>
         
-        <!-- <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody> -->
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+          <tr><td style="padding:20px;width:100%;vertical-align:middle">
+              <heading>Research</heading>
+          </td></tr>
+        </tbody></table>
+        
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
          <!-- <tr>
-            <td style="padding:10px;width:30%;vertical-align:middle">
+            <td style="padding:20px;width:30%;vertical-align:middle">
               <img src='images/captra.gif' width="100%">
             </td>
-            <td style="padding:20px;width:70%;vertical-align:middle">
+            <td style="padding:10px;width:70%;vertical-align:middle">
               <papertitle>CAPTRA: CAtegory-level Pose Tracking for Rigid and Articulated Objects from Point Clouds</papertitle>
               <br>
               <strong>Yijia Weng*</strong>,
@@ -73,7 +82,29 @@
               <p></p>
             </td>
          </tr> -->
-        <!-- </tbody></table> -->
+
+
+         <div class="toggle-container">
+          <div class="toggle-header">
+              <span class="toggle-icon">&#9656;</span>
+              <span class="toggle-title">Previous Research</span>
+          </div>
+          <div class="toggle-content">
+            <p>
+              <li>[HUAWEI Ascend All-wisdom Project] AI-based Part Surface Quality Inspection Method<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022.09 - 2023.09, 
+                <a href="https://gitee.com/ascend/samples/tree/master/best_practices/contrib/part_detection" target="_blank">Gitee</a>
+              </li>
+              <li>
+                Two-Stage Anomaly Detection for Medical Imaging based on GAN<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2021.10 - 2022.05, 
+                <a href="https://dl.acm.org/doi/10.1007/s11042-022-14306-9" target="_blank">Paper</a>
+              </li>
+          </p>
+          </div>
+        </div>
+        </tbody></table>
+
 
         <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20"><tbody>
           <tr>
@@ -119,7 +150,7 @@
             <td style="padding:20px;width:100%;vertical-align:middle">
               <heading>Honors</heading>
               <p>
-                <li><b>Outstanding Graduate of Zhejiang Province</b>, 2024</li>
+                <li>Outstanding Graduate of Zhejiang Province, 2024</li>
                 <li><b>Outstanding Undergraduate Scholarship</b> (Top 10 at University, ¥30,000 RMB), 2024</li>
                 <li><b>National Scholarship</b> (Top 0.2% Nationwide, Highest Honor in China), 2022</li>
                 <li>Zhejiang Government Scholarship (Top 5%), 2021, 2023</li>
@@ -153,6 +184,19 @@
       </td>
     </tr>
   </table>
+
+  <script>
+      const toggleHeaders = document.querySelectorAll('.toggle-header');
+      toggleHeaders.forEach(header => {
+          header.addEventListener('click', () => {
+              const icon = header.querySelector('.toggle-icon');
+              const content = header.nextElementSibling;
+              // 切换折叠状态
+              icon.classList.toggle('open');
+              content.classList.toggle('active');
+          });
+      });
+  </script>
 
   <script>
     // Get the header

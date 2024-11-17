@@ -154,3 +154,41 @@ span.badge {
   padding-bottom: .05em;
   border-radius: 10rem;
 }
+
+
+.toggle-container {
+  /* border-left: 3px solid #888; */
+  padding-left: 20px;
+  margin-bottom: 10px;
+}
+
+.toggle-header {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  user-select: none;
+}
+
+.toggle-icon {
+  transition: transform 0.3s ease;
+  margin-right: 8px;
+  font-size: 16px;
+  color: #97413a;
+}
+
+.toggle-content {
+  display: none;
+  padding-left: 20px;
+  margin-top: 5px;
+  /* color: #97413a; */
+  color: #555;
+}
+
+.toggle-content.active {
+  display: block;
+}
+
+.toggle-icon.open {
+  transform: rotate(90deg);
+}
+
